@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 5,
+      "title": "This is fith todo",
+      "body": "Info about todo here",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "title": "This is 9 todo",
+      "body": "Info about todo here",
+      "completed": true
+    }
+  ]
+}
